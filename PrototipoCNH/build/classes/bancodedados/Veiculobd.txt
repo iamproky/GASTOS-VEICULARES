@@ -1,0 +1,4 @@
+RBO-1g63;preta;GASOLINA COMUM;gol 1.0;2020;douglas vinicius
+ASD-1232;preta;GASOLINA COMUM;gol 1.0;2020;vinicius barros
+RTB-2346;azul;GASOLINA COMUM;TOYTA;2023;douglas vinicius
+AGB-2123;rosa;GASOLINA_PREMIUM;voyage;2023;vinicius barros
